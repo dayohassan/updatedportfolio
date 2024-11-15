@@ -5,7 +5,6 @@ My Portfolio
 
 <img width="1429" alt="Screen Shot 2019-08-23 at 11 12 05 AM" src="https://user-images.githubusercontent.com/36799420/63603278-51864b80-c597-11e9-833e-f076f8283527.png">
 
-The page links to other pages.
 
 <img width="1424" alt="Screen Shot 2019-08-23 at 11 12 34 AM" src="https://user-images.githubusercontent.com/36799420/63603579-eb4df880-c597-11e9-8cbf-4dd924ae72e4.png">
 
