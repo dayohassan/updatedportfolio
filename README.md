@@ -1,6 +1,6 @@
 # updatedportfolio
 
-This is an updated porfolio page of the progress I have made so far as a student, the challenges, the developments and the prospects I am willing to embrace. 
+My Portfolio 
 
 THE LANDING PAGE
 
